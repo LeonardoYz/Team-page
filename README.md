@@ -26,4 +26,4 @@
 
 ## Credits
 
-- GitHub [@LeonardoYz](https://{github.com/your-usermame})
+[@LeonardoYz](https://{github.com/your-usermame})
