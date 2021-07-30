@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://leonardoyz.github.io/Team-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://devchallenges.io/solutions/HWl2298KtaWOQ2TVuzcF}">
       Solution
     </a>
     <span> | </span>
